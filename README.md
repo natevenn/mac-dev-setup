@@ -31,6 +31,12 @@ Setting up dev environments
 * `source /usr/local/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh`
 ### powerline fonts
 * [instructions](https://gist.github.com/kevin-smets/8568070)
+### postgresql
+* [postgresql app instructions](http://postgresapp.com/documentation/gui-tools.html)
+### rvm
+* `curl -sSL https://get.rvm.io | bash -s stable`
+
+
 
 
 
