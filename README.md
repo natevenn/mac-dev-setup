@@ -35,6 +35,8 @@ Setting up dev environments
 * [postgresql app instructions](http://postgresapp.com/documentation/gui-tools.html)
 ### rvm
 * `curl -sSL https://get.rvm.io | bash -s stable`
+### Ag aka the_silver_searcher
+* `brew install the_silver_searcher`
 
 
 
