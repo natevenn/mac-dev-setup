@@ -37,6 +37,8 @@ Setting up dev environments
 * `curl -sSL https://get.rvm.io | bash -s stable`
 ### Ag aka the_silver_searcher
 * `brew install the_silver_searcher`
+### node and npm
+* `brew install node`
 
 
 
