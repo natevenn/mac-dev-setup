@@ -40,8 +40,8 @@ Setting up dev environments
 ### node and npm
 * `brew install node`
 ### redis 
-* 'brew install redis`
-* `redis-server`
+* `brew install redis`
+* then run `redis-server`
 
 
 
