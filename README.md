@@ -39,7 +39,9 @@ Setting up dev environments
 * `brew install the_silver_searcher`
 ### node and npm
 * `brew install node`
-
+### redis 
+* 'brew install redis`
+* `redis-server`
 
 
 
