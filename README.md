@@ -42,7 +42,8 @@ Setting up dev environments
 ### redis 
 * $ `brew install redis`
 * then run $ `redis-server`
-
+### PG::ConnectionBad - postgres
+* $ `rm /usr/local/var/postgres/postmaster.pid`
 
 
 
