@@ -13,6 +13,9 @@ Setting up dev environments
 * $ `brew install tmux`
 * if tmux user-namespace error run this
 * $ `brew install reattach-to-user-namespace`
+### tmuxinator
+* [tmuxinator guide](https://thoughtbot.com/blog/templating-tmux-with-tmuxinator)
+* $ `gem install tmuxinator
 ### generate new SSH key
 * [github help](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/#adding-your-ssh-key-to-the-ssh-agent)
 * $ `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
